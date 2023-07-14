@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.supercompany
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, awaitility, graalvm, gradle, http-client-test, jdbc-hikari, jooq, junit, kapt, kotlin, kotlin-application, kotlin-extension-functions, liquibase, logback, micronaut-aot, micronaut-build, netty-server, openapi, postgres, readme, security, security-annotations, serialization-jackson, shade, swagger-ui, testcontainers, yaml, yaml-build]
